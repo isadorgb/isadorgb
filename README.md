@@ -2,7 +2,7 @@
 
 <div align="center">  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bennerisa&layout=compact&hide_border=true&title_color=ED2274&text_color=48CBE9&bg_color=0d1117" />
-  <img src="https://im3.ezgif.com/tmp/ezgif-3-6e97cabcf5.webp" height="230px" />
+  <img src="https://im3.ezgif.com/tmp/ezgif-3-580ca0da22.webp" height="230px" />
 </div>
 
 ### Main skills:
