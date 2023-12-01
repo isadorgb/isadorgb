@@ -21,5 +21,4 @@
 
 
 ### Studying in this moment:
-![C#](https://img.shields.io/badge/-csharp-0D1117?style=for-the-badge&logo=csharp&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![PHP#](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+
